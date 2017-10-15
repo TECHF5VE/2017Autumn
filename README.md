@@ -16,9 +16,10 @@
 
 ### 注意：所有任务须提交到 [2017AutumnAnswers](https://github.com/TECHF5VE/2017AutumnAnswers) 仓库
 
-## 任务一: Hello Git & GitHub
+## 任务一: Hello Git & GitHub & C/C++
 - 了解什么是 [Git](https://git-scm.com/) 以及什么是 [Github](github.com (http://github.com/))
 - 学会使用Git并在GitHub上创建个人仓库
+- 学习C／C++的基本语法
 - [点击查看详细说明](task1)
 
 ## 联系我们
