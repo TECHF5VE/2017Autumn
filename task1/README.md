@@ -20,7 +20,7 @@ __注： 起始时间为我们开始Review的时间，终止时间为Review的�
 ### 1. 了解`Git`与`GitHub`分别是什么
 ### 2. 学习`Git`的基本使用
 ### 3. 学习基于`GitHub`的协作工作流
-### 4. 学习C／C++的基本语法，越多越好，两周的时间至少要学会使用数组 & 函数 & struct／class
+### 4. 安装C／C++运行环境，学习C／C++的基本语法，越多越好，两周的时间至少要学会使用数组 & 函数, struct／class (可选）
 
 ## 任务作业
 1. 注册`GitHub`账号，在电脑上安装`Git`；  
@@ -64,6 +64,8 @@ __`PR`被接受后你的答案将会进入我们的仓库，也就代表着本�
 - [怎样使用 GitHub？ - 知乎](https://www.zhihu.com/question/20070065)
 - [Git 跟 GitHub 是什么关系？ - 知乎](https://www.zhihu.com/question/21907548)
 - [Git工作流指南](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+
+6. 安装C／C++的运行环境，例如：VS2015等
 
 ## 附加任务
 注： 附加任务是为了有余力的同学设计的，不做强求。  
