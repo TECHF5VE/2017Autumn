@@ -5,6 +5,10 @@
 本仓库为 TECH F5VE 2017 秋季纳新考核仓库。  
 通过各种任务实践的形式来达到学习以及考核的目的。
 
+## 活动须知
+
+本活动由TECH5自发组织形成，感谢TECH5 2017纳新小组成员们的时间与奉献！请参与的同学们明白TECH5的基本原则——分享。如果想要来单方面的获取，那这里并不是一个合适的地方。
+
 ## 考核流程
 
 - 报名：通过在线报名完成相关信息填写（已截止）
@@ -16,9 +20,10 @@
 
 ### 注意：所有任务须提交到 [2017AutumnAnswers](https://github.com/TECHF5VE/2017AutumnAnswers) 仓库
 
-## 任务一: Hello Git & GitHub
+## 任务一: Hello Git & GitHub & C/C++
 - 了解什么是 [Git](https://git-scm.com/) 以及什么是 [Github](github.com (http://github.com/))
 - 学会使用Git并在GitHub上创建个人仓库
+- 学习C／C++的基本语法
 - [点击查看详细说明](task1)
 
 ## 联系我们
