@@ -39,8 +39,8 @@ int main() {
 	// test codes example
 	ListNode* listA = new ListNode();
 	ListNode* listB = new ListNode();
-	int[] a = [1, 3, 3];
-	int[] b = [5, 9, 2];
+	int a[] = {1, 3, 3};
+	int b[] = {5, 9, 2};
 	for() {
 		// initilise listA and list B
 	}
