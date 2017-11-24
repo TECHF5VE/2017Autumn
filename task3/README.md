@@ -76,7 +76,7 @@
 
    在完成这个题目之后，请你画出你分配的这段内存的结构简图，并标识出每一轮输出时，内存的数据内容（以**二进制**形式分段展示）。图片保存为`memory.png`。
    
-   **请注意：在完成这个问题的时候，如果发生执政转换，那么你只能使用`static_cast`/`reinterpret_cast`/`dynamic_cast`/`const_cast`中的某一种，并且应当选择最合适的那一种。
+   **请注意：在完成这个问题的时候，如果发生指针转换，那么你只能使用`static_cast`/`reinterpret_cast`/`dynamic_cast`/`const_cast`中的某一种，并且应当选择最合适的那一种。
 
 ## 示范：
 
